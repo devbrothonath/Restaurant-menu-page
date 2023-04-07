@@ -18,6 +18,9 @@ The data is saved as an object in a menu array with 6 key value pairs. <br>
 5. img: "./images/item-1.jpeg",
 6. desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `
 
-Adding a new dish is as simple as adding a new object to the array and it will get added to the page.
+## Adding new dishes
+1. To add a new dish, we will go to "app.js".
+2. Then inside app.js, we will create an object inside the menu array with the above specified key value pairs.
 
+## Deploy
 I have deployed this application on netlify. You can check it out here: https://menu-page-dynamic-d7f0b9.netlify.app/
